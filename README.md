@@ -1,1 +1,1 @@
-an AI Business assistant app to assist business owners and contant creators
+an AI Business assistant app to assist business owners and content creators
